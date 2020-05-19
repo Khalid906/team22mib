@@ -7,7 +7,7 @@ package Agent;
 
 import oru.inf.InfDB;
 
-/**//
+/**
  *
  * @author marku
  */
